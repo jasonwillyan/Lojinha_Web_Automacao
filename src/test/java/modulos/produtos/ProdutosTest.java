@@ -76,7 +76,7 @@ public class ProdutosTest
                 .informarASenha("admin")
                 .submeterFomularioDeLogin()
                 .acessarFormularioDeAdicaoDeNovoProduto()
-                .informarNomeDoProduto("Playstation 5")
+                .informarNomeDoProduto("Playstation 4")
                 .informarValorProduto("001")
                 .informarCoresDoProduto("Preto, Branco")
                 .submeterFormularioDeEdicaoComSucesso()
